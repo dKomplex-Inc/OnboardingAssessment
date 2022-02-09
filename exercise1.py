@@ -1,8 +1,8 @@
 """Exercise 1 - Variable Updating"""
 a = 2
-a = 4
-a = 6
+b = 4
+c = 6
 
 def returnValue():
-    value = (a + a + a)
+    value = (a + b + c)
     return(value)
