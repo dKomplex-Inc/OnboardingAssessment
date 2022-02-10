@@ -3,4 +3,4 @@ a = 1
 b = 2
 
 def returnBool():
-    return ((a == b) & (b == c))
+    return ((a != b) & (b != a))
