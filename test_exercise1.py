@@ -1,4 +1,4 @@
 from exercise1 import returnValue
 
 def test_passing():
-    assert returnValue() == 12
+    assert returnValue() == 18
