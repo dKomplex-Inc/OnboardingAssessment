@@ -4,5 +4,5 @@ a = 4
 a = 6
 
 def returnValue():
-    value = (a + a)
+    value = (a * 2)
     return(value)
