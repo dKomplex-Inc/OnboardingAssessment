@@ -1,3 +1,3 @@
 """Exercise 5 - List Comprehension"""
 def returnSquares():
-    return [x for x in range(10)]
+    return [x**2 for x in range(11)]
